@@ -26,4 +26,17 @@ My first milestone was wiring the different parts to supply them power which inc
 # Starter Project
 My starter project was the Useless Machine. The wires connected to the battery pack carried power to the arduino in order to power the motor. The motor powered the arm to move the switch the opposite way when the user flips it. The resistors are another component on the arduino which control the amount of voltage running from the system. I enjoyed learning how to solder components to the arduino. Something I struggled with was assembly of some of the parts because the amount of precision needed.
 
-[![Starter Project](https://res.cloudinary.com/marcomontalbano/image/upload/v1657656507/video_to_markdown/images/youtube--VkKRnvD49vk-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=VkKRnvD49vk "Starter Project")
+[![Starter Project](https://res.cloudinary.com/marcomontalbano/image/upload/v1657656507/video_to_markdown/images/youtube--VkKRnvD49vk-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com<img width="840" alt="Screen Shot 2022-07-14 at 2 42 52 PM" src="https://user-images.githubusercontent.com/108764468/179091824-8735b631-f7b8-43cb-9b7a-17e821612953.png">
+/watch?v=VkKRnvD49vk "Starter Project")
+
+<img width="840" alt="Screen Shot 2022-07-14 at 2 42 52 PM" src="https://user-images.githubusercontent.com/108764468/179091883-1c19063a-e566-440a-9a68-a53f4d014c49.png">
+
+
+
+
+
+
+
+
+
+
