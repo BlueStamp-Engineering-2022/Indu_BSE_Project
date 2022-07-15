@@ -1,5 +1,5 @@
 ﻿# Candy Color Sorter
-My candy color sorter allows the user to sort candy into the different colors (red, orange, yellow, green, blue, brown). The machine uses the RGB frequencies to move its part different angles so that the candy can fall into the assigned color box. 
+My candy color sorter allows the user to sort candy into the different colors (orange, yellow, green, brown). The machine uses the RGB frequencies to move its part different angles so that the candy can fall into the assigned color box. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
