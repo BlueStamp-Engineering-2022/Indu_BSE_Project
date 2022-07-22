@@ -5,7 +5,7 @@ My candy color sorter allows the user to sort candy into the different colors (o
 |:--:|:--:|:--:|:--:|
 | Indu D | Monta Vista High School | Computer Science | Incoming Sophomore
 
-![Headstone Image](https://photos.google.com/photo/AF1QipMaj8GxYlDTPW1gz8TWcRlwff2fABQxz5QQlm8d)
+![Headstone Image](https://lh3.googleusercontent.com/rtB2QUC3EZ83tm594B5UOdMZm5rFG4R0fKpdg-VG5-LRoElA7SVQj9jn9qft06vX7wLhrSPmYPlzBlNc7ZueOHNMGIRDi98CnZ2qGvhWIPNl4mASII4wsFQznTrZ0MvU0qXJ6JNaP9ygMkecyCuRtmfpxUtxbAyqZyKFYIgxkKqizn7hDZDabgZwsVXyBAzBcE5wA_gPpGFu1UnNxyUA38wqzKWU4PkiMTrcD0AlaLqQsqwOlhLwNMi-5e3EGtpHx3aaefhPhmwXuful9dGhUqVatwjMBrwM7OooOLHXEpkvtz8oBmWH6XEnSmfcOzW9VXv94FYYUf1kGLQyUXFXZJfS81CmUaa6dTMkCUVXd34oZrB86koZ7TN5DOyYqkXvm5TObM_MOYBH55Ss8HiXaGRQ9FPPVkayDjcj6dxlaSEvFBp9lD0yEC_ZWgjI8fOB5ZabAZOswWQhzzJSKkPHtQo7giX0F3xoI-TtVK0lu9FZh_5_Ip59qPlRnpbws5GenC5eSE4vqL3jK5MmOGYmM3udA0JDN0f0ySgTlzcFVyujScZE27LY9YW1tVW-OFMUMrjTflYES0xZrGSblOBHgQaKN5mLtoBgbw_LcVEtPoe02peXDNvuvAPQLhzmO2LW5hH2cbeZPXik4MhtXvbi8VJr5gC8_z46lH_cJL4P98tZQrebd3Nk5QQBtQGBZTAk_WcToiU3AdOHuWYMzDJ95l1YjPMyRTkgjmopmXqcSo9ivU5Eeya-jMpT7WMueQefEplUS_92k1VreSe7vrHlGG5nQmLtAjiHq-9RSThZebbCXiHI6qxMa6NNu1aDaQadOCM=w510-h679-no?authuser=0)
   
 # Final Milestone
 My final milestone is the increased aesthetics and accuracy of my robot. I colored the area around the skittle that the color sensor is detecting, with black so that the colored tints of the wood didn't mess with the rgb frequencies. To make my project look better, I also painted the outside of the machine black. In addition, I also added another color to sort the skittles into- red, by modifying some of the ranges. 
