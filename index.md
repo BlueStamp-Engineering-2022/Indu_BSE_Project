@@ -32,4 +32,5 @@ My starter project was the Useless Machine. The wires connected to the battery p
 This is the circuit diagram for my candy color sorter!
 <img width="840" alt="Screen Shot 2022-07-14 at 2 42 52 PM" src="https://user-images.githubusercontent.com/108764468/179091883-1c19063a-e566-440a-9a68-a53f4d014c49.png">
 
-The code is attached. You can find it here -> https://howtomechatronics.com/projects/arduino-color-sorter-project/#google_vignette (Code written by Dejan)
+The code is attached. --> 
+You can find it here -> https://howtomechatronics.com/projects/arduino-color-sorter-project/#google_vignette (Code written by Dejan)
