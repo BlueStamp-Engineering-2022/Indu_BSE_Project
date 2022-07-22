@@ -5,7 +5,7 @@ My candy color sorter allows the user to sort candy into the different colors (o
 |:--:|:--:|:--:|:--:|
 | Indu D | Monta Vista High School | Computer Science | Incoming Sophomore
 
-![Headstone Image]
+[Headstone Image]
 
 <img width="231" alt="Screen Shot 2022-07-22 at 10 22 14 AM" src="https://user-images.githubusercontent.com/108764468/180492038-ac127e3b-8f0f-4708-8a2e-0b61e9fabbc6.png">
   
