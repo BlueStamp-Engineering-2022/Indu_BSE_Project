@@ -5,7 +5,7 @@ My candy color sorter allows the user to sort candy into the different colors (o
 |:--:|:--:|:--:|:--:|
 | Indu D | Monta Vista High School | Computer Science | Incoming Sophomore
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![Headstone Image](https://photos.google.com/photo/AF1QipMaj8GxYlDTPW1gz8TWcRlwff2fABQxz5QQlm8d)
   
 # Final Milestone
 My final milestone is the increased aesthetics and accuracy of my robot. I colored the area around the skittle that the color sensor is detecting, with black so that the colored tints of the wood didn't mess with the rgb frequencies. To make my project look better, I also painted the outside of the machine black. In addition, I also added another color to sort the skittles into- red, by modifying some of the ranges. 
